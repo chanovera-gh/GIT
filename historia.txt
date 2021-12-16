@@ -3,3 +3,4 @@ Nací en Coatzacoalcos, Veracruz, México.
 Tengo 38 años, estoy casado, tengo una bebita de 12 meses.
 Me dedicaba al soporte, actualmente trabajo en desarrollo web y estudio la carrera de ingeniería en sistemas.
 Estoy aprendiendo GIT.
+Es un poco rebuscado pero parece útil.
